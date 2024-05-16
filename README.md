@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bernardbyy&label=Profile%20views&color=0e75b6&style=flat" alt="bernardbyy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bernardbyy" alt="bernardbyy" /></a> </p>
-
 - 🔭 I’m currently working on **an Recyclable Waste Instance Segmentation Model with Real-Time Inference Speeds using Yolact-Edge**
 
 - 💬 Ask me about **Machine Learning !!**
