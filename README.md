@@ -13,13 +13,13 @@
 
 <!-- Adding My Projects Section -->
 <h2 style="color: #ff4757; margin-top: 20px;">📁 My Projects</h2>
-<div style="color: #ff4757; font-size: 24px; border-bottom: 2px solid #ff4757; display: inline-block; padding-bottom: 5px;">Data Science / Machine Learning Related</div>
+<div style="color: #ff4757; font-size: 24px; border-bottom: 2px solid #ff4757; display: inline-block; padding-bottom: 5px;">Data Science / Machine Learning / Deep Learning Related</div>
 <ul style="list-style: none; padding: 0;">
-    <li style="margin-top: 10px; font-size: 18px;">E-commerce Data Analysis with SQL</li>
-    <li style="margin-top: 10px; font-size: 18px;">Defect Classification with XGBoost</li>
-    <li style="margin-top: 10px; font-size: 18px;">Data Visualization on Malaysian Employment</li>
-    <li style="margin-top: 10px; font-size: 18px;">Heart Rate Prediction with SVM & Random Forest</li>
-    <li style="margin-top: 10px; font-size: 18px;">Loan Repayment Prediction & Analysis</li>
+    <li style="margin-top: 10px; font-size: 18px;"><a href="[URL_FOR_ECOMMERCE_PROJECT](https://github.com/Bernardbyy/CIFAR10-ImageClassfication)" style="color: white;">CIFAR10-Image Classification w/ MobileNetV2 and DenseNet-121 </a></li>
+    <li style="margin-top: 10px; font-size: 18px;"><a href="URL_FOR_DEFECT_CLASSIFICATION" style="color: white;">Defect Classification with XGBoost</a></li>
+    <li style="margin-top: 10px; font-size: 18px;"><a href="URL_FOR_MALAYSIAN_EMPLOYMENT" style="color: white;">Data Visualization on Malaysian Employment</a></li>
+    <li style="margin-top: 10px; font-size: 18px;"><a href="URL_FOR_HEART_RATE_PREDICTION" style="color: white;">Heart Rate Prediction with SVM & Random Forest</a></li>
+    <li style="margin-top: 10px; font-size: 18px;"><a href="URL_FOR_LOAN_REPAYMENT" style="color: white;">Loan Repayment Prediction & Analysis</a></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
