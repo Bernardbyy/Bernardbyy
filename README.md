@@ -11,6 +11,17 @@
 
 - ⚡ Fun fact **I am very socialble!**
 
+<!-- Adding My Projects Section -->
+<h2 style="color: #ff4757; margin-top: 20px;">📁 My Projects</h2>
+<div style="color: #ff4757; font-size: 24px; border-bottom: 2px solid #ff4757; display: inline-block; padding-bottom: 5px;">Data Science / Machine Learning Related</div>
+<ul style="list-style: none; padding: 0;">
+    <li style="margin-top: 10px; font-size: 18px;">E-commerce Data Analysis with SQL</li>
+    <li style="margin-top: 10px; font-size: 18px;">Defect Classification with XGBoost</li>
+    <li style="margin-top: 10px; font-size: 18px;">Data Visualization on Malaysian Employment</li>
+    <li style="margin-top: 10px; font-size: 18px;">Heart Rate Prediction with SVM & Random Forest</li>
+    <li style="margin-top: 10px; font-size: 18px;">Loan Repayment Prediction & Analysis</li>
+</ul>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/yong_yeow_2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yong_yeow_2001" height="30" width="40" /></a>
