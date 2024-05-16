@@ -25,7 +25,12 @@
 <ul style="list-style: none; padding: 0;">
     <li style="margin-top: 10px; font-size: 18px;"><a href="" style="color: white;">Personal Finance Kotlin Android App </a></li>
     <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/BurgerWebsite" style="color: white;">Burger Restaurant Website w/ HTML, CSS and Javascript</a></li>
-    <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/SpotifyMusicClassifier" style="color: white;">Spotify Music Preference Classifier using XGB, GNB, RF and Stacking</a></li>
+</ul>
+
+<div style="color: #ff4757; font-size: 24px; border-bottom: 2px solid #ff4757; display: inline-block; padding-bottom: 5px;">Fundamentals 🍼</div>
+<ul style="list-style: none; padding: 0;">
+    <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/TutorManagementModule" style="color: white;">Tutor Management Module using Doubly Linked List and Bubble Sort</a></li>
+    <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/RestaurantReservationSystem" style="color: white;">Restaurant Reservation System</a></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
