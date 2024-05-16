@@ -13,7 +13,14 @@
 
 <!-- Adding My Projects Section -->
 <h2 style="color: #ff4757; margin-top: 20px;">📁 My Projects</h2>
-<div style="color: #ff4757; font-size: 24px; border-bottom: 2px solid #ff4757; display: inline-block; padding-bottom: 5px;">Data Science / Machine Learning / Deep Learning Related</div>
+<div style="color: #ff4757; font-size: 24px; border-bottom: 2px solid #ff4757; display: inline-block; padding-bottom: 5px;">Data Science / Machine Learning / Deep Learning Related 🔎🧬</div>
+<ul style="list-style: none; padding: 0;">
+    <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/CIFAR10-ImageClassfication" style="color: white;">CIFAR10-Image Classification w/ MobileNetV2 and DenseNet-121 </a></li>
+    <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/BahasaRojakSentimentAnalysis" style="color: white;">Bahasa Rojak Sentiment Analysis using downstreamed Cross Lingual Model XLM-RoBERTa (XLM-T)</a></li>
+    <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/SpotifyMusicClassifier" style="color: white;">Spotify Music Preference Classifier using XGB, GNB, RF and Stacking</a></li>
+</ul>
+
+<div style="color: #ff4757; font-size: 24px; border-bottom: 2px solid #ff4757; display: inline-block; padding-bottom: 5px;">Data Science / Machine Learning / Deep Learning Related 🔎🧬</div>
 <ul style="list-style: none; padding: 0;">
     <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/CIFAR10-ImageClassfication" style="color: white;">CIFAR10-Image Classification w/ MobileNetV2 and DenseNet-121 </a></li>
     <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/BahasaRojakSentimentAnalysis" style="color: white;">Bahasa Rojak Sentiment Analysis using downstreamed Cross Lingual Model XLM-RoBERTa (XLM-T)</a></li>
