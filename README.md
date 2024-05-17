@@ -22,6 +22,14 @@
         <li style="margin-top: 10px; font-size: 18px;"><a href="" style="color: white;">USD/EUR Curreny Pair Prediction w/ ARIMA, SARIMA, and LSTM</a></li>
 </ul>
 
+<div style="color: #ff4757; font-size: 24px; border-bottom: 2px solid #ff4757; display: inline-block; padding-bottom: 5px;">Data Management Related 🗄️</div>
+<ul style="list-style: none; padding: 0;">
+    <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/TutorManagementModule" style="color: white;">Real-Time Amazon Stock Price Visualization w/ Kafka</a></li>
+    <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/RestaurantReservationSystem" style="color: white;">Northwind Data Warehouse Project</a></li>
+    <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/RestaurantReservationSystem" style="color: white;">[Advanced Database Project]</a></li>
+    <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/RestaurantReservationSystem" style="color: white;">[Advanced Database Project]</a></li>
+</ul>
+
 <div style="color: #ff4757; font-size: 24px; border-bottom: 2px solid #ff4757; display: inline-block; padding-bottom: 5px;">Development Related 📲🌐</div>
 <ul style="list-style: none; padding: 0;">
     <li style="margin-top: 10px; font-size: 18px;"><a href="" style="color: white;">Personal Finance Kotlin Android App </a></li>
