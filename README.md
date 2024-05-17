@@ -14,6 +14,7 @@
 <!-- Adding My Projects Section -->
 <h2 style="color: #ff4757; margin-top: 20px;">📁 My Projects</h2>
 
+<!-- DATA SCIENCE/ ML / DL SECTION-->
 <div style="color: #ff4757; font-size: 24px; border-bottom: 2px solid #ff4757; display: inline-block; padding-bottom: 5px;">Data Science / Machine Learning / Deep Learning Related 🔎🧬</div>
 <ul style="list-style: none; padding: 0;">
     <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/CIFAR10-ImageClassfication" style="color: white;">CIFAR10-Image Classification w/ MobileNetV2 and DenseNet-121 </a></li>
@@ -22,20 +23,23 @@
         <li style="margin-top: 10px; font-size: 18px;"><a href="" style="color: white;">USD/EUR Curreny Pair Prediction w/ ARIMA, SARIMA, and LSTM</a></li>
 </ul>
 
+<!-- DATA MANAGEMENT SECTION-->
 <div style="color: #ff4757; font-size: 24px; border-bottom: 2px solid #ff4757; display: inline-block; padding-bottom: 5px;">Data Management Related 🗄️</div>
 <ul style="list-style: none; padding: 0;">
     <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/TutorManagementModule" style="color: white;">Real-Time Amazon Stock Price Visualization w/ Kafka</a></li>
-    <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/AmazonStockPriceVisualization/tree/main" style="color: white;">Northwind Data Warehouse Project</a></li>
+    <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/AmazonStockPriceVisualization/tree/main" style="color: white;">Microsoft Northwind Data Warehouse Project</a></li>
     <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/RestaurantReservationSystem" style="color: white;">[Advanced Database Project]</a></li>
     <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/RestaurantReservationSystem" style="color: white;">[Advanced Database Project]</a></li>
 </ul>
 
+<!-- DEVELOPMENT RELATED SECTION-->
 <div style="color: #ff4757; font-size: 24px; border-bottom: 2px solid #ff4757; display: inline-block; padding-bottom: 5px;">Development Related 📲🌐</div>
 <ul style="list-style: none; padding: 0;">
     <li style="margin-top: 10px; font-size: 18px;"><a href="" style="color: white;">Personal Finance Kotlin Android App </a></li>
     <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/BurgerWebsite" style="color: white;">Burger Restaurant Website w/ HTML, CSS and Javascript</a></li>
 </ul>
 
+<!-- FUNDAMENTALS SECTION-->
 <div style="color: #ff4757; font-size: 24px; border-bottom: 2px solid #ff4757; display: inline-block; padding-bottom: 5px;">Fundamentals 🍼</div>
 <ul style="list-style: none; padding: 0;">
     <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/TutorManagementModule" style="color: white;">Tutor Management Module w/ Doubly Linked List and Bubble Sort</a></li>
