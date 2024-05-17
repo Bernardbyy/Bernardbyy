@@ -35,7 +35,7 @@
 <!-- DEVELOPMENT RELATED SECTION-->
 <div style="color: #ff4757; font-size: 24px; border-bottom: 2px solid #ff4757; display: inline-block; padding-bottom: 5px;">Development Related 📲🌐</div>
 <ul style="list-style: none; padding: 0;">
-    <li style="margin-top: 10px; font-size: 18px;"><a href="" style="color: white;">Personal Finance Kotlin Android App </a></li>
+    <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/DebtDecoder" style="color: white;">Personal Finance Kotlin Android App </a></li>
     <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/BurgerWebsite" style="color: white;">Burger Restaurant Website w/ HTML, CSS and Javascript</a></li>
 </ul>
 
