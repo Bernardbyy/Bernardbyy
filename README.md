@@ -20,7 +20,7 @@
     <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/CIFAR10-ImageClassfication" style="color: white;">CIFAR10-Image Classification w/ MobileNetV2 and DenseNet-121 </a></li>
     <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/BahasaRojakSentimentAnalysis" style="color: white;">Bahasa Rojak Sentiment Analysis w/ downstreamed Cross Lingual Model XLM-RoBERTa (XLM-T)</a></li>
     <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/SpotifyMusicClassifier" style="color: white;">Spotify Music Preference Classifier w/ XGB, GNB, RF and Stacking</a></li>
-        <li style="margin-top: 10px; font-size: 18px;"><a href="" style="color: white;">USD/EUR Curreny Pair Prediction w/ ARIMA, SARIMA, and LSTM</a></li>
+        <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/USD-EURCurrencyPairPrediction" style="color: white;">USD/EUR Curreny Pair Prediction w/ ARIMA, SARIMA, and LSTM</a></li>
 </ul>
 
 <!-- DATA MANAGEMENT SECTION-->
