@@ -28,8 +28,6 @@
 <ul style="list-style: none; padding: 0;">
     <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/AmazonStockPriceVisualization/tree/main" style="color: white;">Real-Time Amazon Stock Price Visualization w/ Kafka</a></li>
     <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/MicrosoftNorthwindDatawarehouse" style="color: white;">Microsoft Northwind Data Warehouse Project</a></li>
-    <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/RestaurantReservationSystem" style="color: white;">[Advanced Database Project]</a></li>
-    <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/RestaurantReservationSystem" style="color: white;">[Advanced Database Project]</a></li>
 </ul>
 
 <!-- DEVELOPMENT RELATED SECTION-->
