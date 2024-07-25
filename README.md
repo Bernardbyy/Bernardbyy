@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bernardbyy&label=Profile%20views&color=0e75b6&style=flat" alt="bernardbyy" /> </p>
 
-- 🔭 I’m currently working on **an Recyclable Waste Instance Segmentation Model with Real-Time Inference Speeds using Yolact-Edge**
+- 🔭 I’m currently working on **an Recyclable Waste Instance Segmentation Model with Real-Time Inference Speeds using Mask-RCNN**
 
 - 💬 Ask me about **Machine Learning !!**
 
