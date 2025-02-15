@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bernardbyy&label=Profile%20views&color=0e75b6&style=flat" alt="bernardbyy" /> </p>
 
-- 🔭 I’m currently working on **an Recyclable Waste Instance Segmentation Model with Real-Time Inference Speeds using Mask-RCNN**
+- 🔭 I’m currently working in an eKYC company in the Fintech Industry. Working on modules to prevent against visual presentation attacks.   
 
-- 💬 Ask me about **Machine Learning !!**
+- 💬 Ask me about How Your Raw Data can be turn into ** Actionable Insights!! **
 
 - 📫 How to reach me **bernardbyy@gmail.com**
 
