@@ -17,10 +17,11 @@
 <!-- DATA SCIENCE/ ML / DL SECTION-->
 <div style="color: #ff4757; font-size: 24px; border-bottom: 2px solid #ff4757; display: inline-block; padding-bottom: 5px;">Data Science / Machine Learning / Deep Learning Related 🔎🧬</div>
 <ul style="list-style: none; padding: 0;">
+    <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/FaceCountingAppMTCNN" style="color: white;">Face Detection and Counting w/ MTCNN and Image Processing</a></li>
     <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/CIFAR10-ImageClassfication" style="color: white;">CIFAR10-Image Classification w/ MobileNetV2 and DenseNet-121 </a></li>
     <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/BahasaRojakSentimentAnalysis" style="color: white;">Bahasa Rojak Sentiment Analysis w/ downstreamed Cross Lingual Model XLM-RoBERTa (XLM-T)</a></li>
     <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/SpotifyMusicClassifier" style="color: white;">Spotify Music Preference Classifier w/ XGB, GNB, RF and Stacking</a></li>
-        <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/USD-EURCurrencyPairPrediction" style="color: white;">USD/EUR Curreny Pair Prediction w/ ARIMA, SARIMA, and LSTM</a></li>
+    <li style="margin-top: 10px; font-size: 18px;"><a href="https://github.com/Bernardbyy/USD-EURCurrencyPairPrediction" style="color: white;">USD/EUR Curreny Pair Prediction w/ ARIMA, SARIMA, and LSTM</a></li>
 </ul>
 
 <!-- DATA MANAGEMENT SECTION-->
