@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bernardbyy&label=Profile%20views&color=0e75b6&style=flat" alt="bernardbyy" /> </p>
 
-- 🔭 I’m currently working for an eKYC company in the Fintech Industry to prevent against visual presentation attacks.   
+- 🔭 I've concluded my internship at an eKYC company in the Fintech Industry to prevent against visual presentation attacks.   
 
 - 💬 Ask me about How Your Raw Data can be turn into **Actionable Insights!!**
 
